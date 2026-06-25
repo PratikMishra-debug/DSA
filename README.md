@@ -1,5 +1,6 @@
 # DSA
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+I show Up every day and Every single Day until I get Placement!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
