@@ -12,6 +12,7 @@ I show Up every day and Every single Day until I get Placement!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PratikMishra-debug/DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/PratikMishra-debug/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PratikMishra-debug/DSA/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
@@ -32,9 +33,11 @@ I show Up every day and Every single Day until I get Placement!
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/PratikMishra-debug/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PratikMishra-debug/DSA/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/PratikMishra-debug/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PratikMishra-debug/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
