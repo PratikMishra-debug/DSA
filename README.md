@@ -38,6 +38,7 @@ I show Up every day and Every single Day until I get Placement!
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/PratikMishra-debug/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/PratikMishra-debug/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PratikMishra-debug/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
